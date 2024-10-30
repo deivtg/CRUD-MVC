@@ -1,0 +1,11 @@
+views\frmUsuario$2.class
+views\frmUsuario$5.class
+services\UsuarioService.class
+controllers\UsuarioController.class
+services\DbConnection.class
+models\Usuario.class
+views\frmUsuario$4.class
+views\frmUsuario$3.class
+views\frmUsuario$6.class
+views\frmUsuario.class
+views\frmUsuario$1.class
